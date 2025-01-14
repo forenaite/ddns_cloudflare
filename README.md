@@ -15,6 +15,7 @@ Over time I'll add more functions, and maybe I'll turn it into a service and por
 * Zone ID (numeric ID).
 * Resource ID (your DNS A record ID).
 * Curl.
+* Jq.
 
 **How To**
 
