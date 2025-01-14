@@ -1,6 +1,6 @@
 # DynDNS Cloudflare
 
-Dynamic DNS with own domain and CloudFlare.
+Dynamic DNS with own domain and Cloudflare.
 
 > For free, without having to pay anything, and with your own domain.
 
